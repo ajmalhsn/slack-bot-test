@@ -1,4 +1,4 @@
-const envKey = process.env.JOKES_BOT_TOKEN
+
 var SlackBot = require('slackbots');
 
 // create a bot
